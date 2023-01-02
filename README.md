@@ -1,1 +1,2 @@
 # Restaurant-App-using-java-only
+This project allows the customer to select food through a menu. The order is written to an array. The program shows the total price (bill) that the customer has ordered. When the payment is successful the table is then seen empty. Many customers can order food through the program. And when the tables are all occupied, the customers are queued and given tables when the tables become free. The program is very efficient and fast, thanks to java. It is also a good example of the concept of object oriented programming.
